@@ -3,3 +3,5 @@ this my first fgile in git
 In master
 In Sarhtak
 
+This are changes from second user
+
