@@ -1,3 +1,1 @@
-This is third file
-
-This is from first side
+This is pushed from master
